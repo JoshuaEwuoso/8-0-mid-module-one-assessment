@@ -131,11 +131,7 @@ If there are multiple animals with the same highest count, return the one that a
 
 ```js
 getMostCommonAnimal(animals, 5);
-//> [
-//>   { kind: "Pig", count: 5 },
-//>   { kind: "Cow", count: 7 },
-//>   { kind: "Chicken", count: 11 },
-//> ];
+//>   { kind: "Chicken", count: 11 }
 ```
 
 ## Learning Objectives Assessed
